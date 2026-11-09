@@ -1,0 +1,21 @@
+app-task1,
+app-task2,
+app-task3,
+p {
+  display: block;
+  width: 40%;
+  margin: 20px auto 5px auto;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.task-card {
+  padding: 20px;
+  border-radius: 12px;
+  background: #f3f8ed;
+  text-align: left;
+}
